@@ -1,0 +1,5 @@
+## DETECTING SPAM EMAILS USING TENSORFLOW IN PYTHON ##
+WE WILL BUILD THIS USING TENSORFLOW BASED SPAM DETECTOR
+in simple term we have to classify texts as Spam or Ham. This implies that Spam detection is a case of *Text Classification* problem.
+
+first we have to perform EDA and then Build the text classification model.
